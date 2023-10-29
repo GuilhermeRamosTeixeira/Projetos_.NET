@@ -1,0 +1,10 @@
+G:\Repositório\2019\FACIL\CALCULADORA\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+G:\Repositório\2019\FACIL\CALCULADORA\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+G:\Repositório\2019\FACIL\CALCULADORA\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+G:\Repositório\2019\FACIL\CALCULADORA\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+G:\Repositório\2019\FACIL\CALCULADORA\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+G:\Repositório\2019\FACIL\CALCULADORA\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+G:\Repositório\2019\FACIL\CALCULADORA\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+G:\Repositório\2019\FACIL\CALCULADORA\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+G:\Repositório\2019\FACIL\CALCULADORA\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+G:\Repositório\2019\FACIL\CALCULADORA\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

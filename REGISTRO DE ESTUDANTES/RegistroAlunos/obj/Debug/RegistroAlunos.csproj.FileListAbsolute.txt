@@ -1,0 +1,12 @@
+G:\Repositório\2019\FACIL\Calculadora\RegistroAlunos\RegistroAlunos\bin\Debug\RegistroAlunos.exe.config
+G:\Repositório\2019\FACIL\Calculadora\RegistroAlunos\RegistroAlunos\bin\Debug\RegistroAlunos.exe
+G:\Repositório\2019\FACIL\Calculadora\RegistroAlunos\RegistroAlunos\bin\Debug\RegistroAlunos.pdb
+G:\Repositório\2019\FACIL\Calculadora\RegistroAlunos\RegistroAlunos\obj\Debug\RegistroAlunos.csproj.AssemblyReference.cache
+G:\Repositório\2019\FACIL\Calculadora\RegistroAlunos\RegistroAlunos\obj\Debug\RegistroAlunos.PRINCIPAL.resources
+G:\Repositório\2019\FACIL\Calculadora\RegistroAlunos\RegistroAlunos\obj\Debug\RegistroAlunos.Properties.Resources.resources
+G:\Repositório\2019\FACIL\Calculadora\RegistroAlunos\RegistroAlunos\obj\Debug\RegistroAlunos.csproj.GenerateResource.cache
+G:\Repositório\2019\FACIL\Calculadora\RegistroAlunos\RegistroAlunos\obj\Debug\RegistroAlunos.csproj.CoreCompileInputs.cache
+G:\Repositório\2019\FACIL\Calculadora\RegistroAlunos\RegistroAlunos\obj\Debug\RegistroAlunos.exe
+G:\Repositório\2019\FACIL\Calculadora\RegistroAlunos\RegistroAlunos\obj\Debug\RegistroAlunos.pdb
+G:\Repositório\2019\FACIL\Calculadora\RegistroAlunos\RegistroAlunos\obj\Debug\RegistroAlunos.Cadastro.resources
+G:\Repositório\2019\FACIL\Calculadora\RegistroAlunos\RegistroAlunos\obj\Debug\RegistroAlunos.Editar.resources
